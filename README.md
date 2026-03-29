@@ -50,7 +50,7 @@ digital-literacy-project/
 |
 ├── README.md
 |
-└── report/ Project_Report.docx
+└── report/ Project_Report.pdf
 
 ```
 
